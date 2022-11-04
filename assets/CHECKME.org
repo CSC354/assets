@@ -8,4 +8,4 @@ Topics to check:
   Watch at least 7 videos to learn all the basics.
 + Basics of SQL (any flavor)
 + Docker Tutorial (check KodeKloud)
-+ Meeting at a 04 Nov, 07:00 PM
++ Meeting at +a 04 Nov, 07:00 PM+ Saturday, 05 November 2022, 04:00 PM
