@@ -7,5 +7,5 @@ Topics to check:
 + Use Git.
   Watch at least 7 videos to learn all the basics.
 + Basics of SQL (any flavor)
-+ Docker Tutorial
++ Docker Tutorial (check KodeKloud)
 + Meeting at a 04 Nov, 07:00 PM
