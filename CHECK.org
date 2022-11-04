@@ -1,0 +1,11 @@
+#+title: Check
+
+Meeting conclusions.
+* Thursday, 03 November 2022
+Topics to check:
++ HTTP method and understand how APIs work, and what are RESTful APIs.
++ Use Git.
+  Watch at least 7 videos to learn all the basics.
++ Basics of SQL (any flavor)
++ Docker Tutorial
++ Meeting at a 04 Nov, 07:00 PM
