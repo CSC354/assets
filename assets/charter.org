@@ -1,0 +1,38 @@
+#+title: Debate System (Charter)
+#+OPTIONS: author:nil date:nil toc:nil
+
+
+* Project Metadata
++ Project Name: Debate System
++ Project Description: A polymathic, multi-feature services that consolidate the structure
+  of online conversations. Includes a web-client implementation.
++ Data Approved: 03 Nov, 2022.
+* Businesses Case
++ Current situation of debate platforms:
+  + Either too minimal and not unusable (like most image board websites), or;
+  + Too bloated and badly designed, and leak substantial features (like Kialo).
++ Our objectives are to fulfill the both shortcomings with a platform that is compatible
+  with multi-typed midea structures.
+* Team Members
+|----------------+--------------------------------------|
+| Member         | Role                                 |
+|----------------+--------------------------------------|
+| Mostafa Rady   | Client-side development (front-end)  |
+| Abdo Muhammed  | Server-side development (back-end)   |
+| Abdallah Salah | Front-end development                |
+| Salh Mohamed   | Services Architecture and Deployment |
+|----------------+--------------------------------------|
+* Risk and Constrains
++ In the case of the implementation of external platforms support, that might cause either
+  complexities in performance, or constrains from those platforms (some platforms might
+  disable the content out of their domain)
+* Expected Goals
+We are anticipating having a semi-complete platform with an appropriate user interface, that
+fulfills the mentioned shortcomings.
+* Scope Description
+- In Scope:
+  + Interactive debate management that supports interactive arguing.
+  + Quoting, arguing and response support.
+- Out of scope:
+  + Chat support.
+  + External platforms conversations support.
