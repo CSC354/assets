@@ -27,3 +27,19 @@ Topics to check:
   + [[https://www.youtube.com/watch?v=PG9oKZdFb7w][Network Stacks and the Internet - Computerphile]]
   + [[https://www.youtube.com/watch?v=dh406O2v_1c][What happens when you type google.com into your browser and press enter? (Detailed Analysis)]]
 + Meeting at Monday, 07 November 2022, 09:00 AM
+* Monday, 07 November 2022
+
+To Overview:
+
+|---------------+---------|
+| Member        | Topic   |
+|---------------+---------|
+| Abdo Muhammed | [[https://grpc.io/docs/languages/csharp/][C#/.NET]] |
+| Mustafa       | [[https://grpc.io/docs/languages/python/][Python]]  |
+|---------------+---------|
+
++ [[https://developers.google.com/protocol-buffers][Protoc3]]
++ Install ~WSL 2~ with Ubuntu.
+  + Install docker. Practice docker commands.
++ Review Git.
++ Meeting at Tuesday, 08 November 2022, 04:00 PM
