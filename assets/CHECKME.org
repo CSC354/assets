@@ -43,3 +43,9 @@ To Overview:
   + Install docker. Practice docker commands.
 + Review Git.
 + Meeting at Tuesday, 08 November 2022, 04:00 PM
+
+* Tuesday, 08 November 2022
+Topics to check:
++ Check how to write a beautiful commit messages:
+  + Watch big github repository and check their style. Checkout the linux repository https://github.com/torvalds/linux
+  + Search the web: How to write commit messages.
