@@ -1,0 +1,9 @@
+#+title: Issues
+
+
+There are some issues and bad practices that are made deliberately to save time; mostly need
+to be fixed in the feature:
+
+* Global Issues
++ All the build scripts automatically use latest image build.
++ There is no versioning for images.
