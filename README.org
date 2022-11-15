@@ -11,3 +11,5 @@ to be fixed in the future:
 * Database Issues:
 + Current design is down in the simplest possible way, which might not be best performant.
   consider redesign some of the databases schemata
++ Database credentials does not exist in the current version; a global password is used
+  between all databases to ease development.
