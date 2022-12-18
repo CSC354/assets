@@ -7,9 +7,44 @@ to be fixed in the future:
 + Global issues:
   + All the build scripts automatically use latest image build.
   + There is no versioning for images.
+  + Error handling seems weak.
+  + Concurrent coding is needed.
 
 * Database Issues:
 + Current design is down in the simplest possible way, which might not be best performant.
   consider redesign some of the databases schemata
 + Database credentials does not exist in the current version; a global password is used
   between all databases to ease development.
+* Dependancy Tree
+** Mamar
+:PROPERTIES:
+:CUSTOM_ID: mamar
+:END:
++ None
+** Wathiq
+:PROPERTIES:
+:CUSTOM_ID: wathiq
+:END:
++ None
+** Qaida
+:PROPERTIES:
+:CUSTOM_ID: q
+:END:
++ None
+** Sijl
+:PROPERTIES:
+:CUSTOM_ID: sijl
+:END:
++ [[#mamar][Mamar]]
+  + To generate connection string.
++ [[#wathiq][Wathiq]]
+  + To generate access tokens.
++ [[#q][Qaida]]
+  + Database server.
+** UI
++ [[#sijl][Sijl]]
+  + For authentication.
+* TODOs
+** Sijl
++ Add forget password service.
+** Logging services
