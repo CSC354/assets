@@ -14,14 +14,14 @@
 + Our objectives are to fulfill the both shortcomings with a platform that is compatible
   with multi-typed midea structures.
 * Team Members
-|----------------+--------------------------------------|
-| Member         | Role                                 |
-|----------------+--------------------------------------|
-| Mostafa Rady   | Client-side development (front-end)  |
-| Abdo Muhammed  | Server-side development (back-end)   |
-| Abdallah Salah | Front-end development                |
-| Salh Mohamed   | Services Architecture and Deployment |
-|----------------+--------------------------------------|
+|-------------------------------+-------+--------------------------------------|
+| Member                        | Group | Role                                 |
+|-------------------------------+-------+--------------------------------------|
+| Mostafa Rady Mizar Kamel      | G7    | Client-side development (front-end)  |
+| Abdelrhman Mohamed Sayed Nasr | G9    | Server-side development (back-end)   |
+| Abdulla Salah Mohamed         | G10   | Front-end development                |
+| Saleh Muhammed Ahmed          | G9    | Services Architecture and Deployment |
+|-------------------------------+-------+--------------------------------------|
 * Risk and Constrains
 + In the case of the implementation of external platforms support, that might cause either
   complexities in performance, or constrains from those platforms (some platforms might
