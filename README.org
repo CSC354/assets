@@ -9,6 +9,7 @@ to be fixed in the future:
   + There is no versioning for images.
   + Error handling seems weak.
   + Concurrent coding is needed.
+  + There is no authorization, authentication only.
 
 * Database Issues:
 + Current design is down in the simplest possible way, which might not be best performant.
@@ -48,3 +49,5 @@ to be fixed in the future:
 ** Sijl
 + Add forget password service.
 ** Logging services
+** Support Pagination
+** Consider Better Error Handling
